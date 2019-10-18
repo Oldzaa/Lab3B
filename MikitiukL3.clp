@@ -9,18 +9,11 @@
             bbbb)
 
 
-        (and  aaa  bbb)_
-         aaa bbb
-
-
-       (or (and aaa
+        (or (and aaa
                 bbb)
            (and ccc
                 ddd)
        )
 
 
-      (not aaaa)
-
-
-    
+   
